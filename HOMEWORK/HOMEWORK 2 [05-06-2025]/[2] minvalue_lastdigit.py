@@ -1,5 +1,5 @@
 ''' [2] Write a function that takes two numbers and returns the number that has minimum 
-        value in the last digit.                                                                  '''
+        value in the last digit.                                                       '''
 
 def lastdigit_minvalue(a,b):
     l1 = a % 10

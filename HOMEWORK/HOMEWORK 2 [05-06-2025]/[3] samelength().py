@@ -1,5 +1,5 @@
 ''' [3] Write a function that receives two string arguments and returns True if both strings 
-        are of same length, False otherwise.                                                           '''
+        are of same length, False otherwise.                                                '''
 
 def same_length(a,b):
     len1 = len(a)
